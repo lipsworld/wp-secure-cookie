@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Secure Cookie
-Plugin URI: https://github.com/agrady42/secure-cookie
+Plugin URI: https://github.com/agrady42/wp-secure-cookie
 Description: Marks wordpress_logged_in cookie as Secure if using https
 Auther: Andrew Grady
 Version: 1.0.1
