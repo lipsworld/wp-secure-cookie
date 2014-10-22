@@ -11,5 +11,5 @@ Installation
 
 
 **Tested with:**
-- Wordpress 3.9.1
+- Wordpress 3.9.1 - 4.0
 - php 5.5.9
